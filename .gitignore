@@ -1,8 +1,9 @@
 # Python
-venv/
+.venv/
 __pycache__/
 *.pyc
 *.pyo
+.python-version
 
 # Node.js
 node_modules/
@@ -12,3 +13,5 @@ build/
 # Django
 db.sqlite3
 .env
+
+
